@@ -32,6 +32,7 @@ For more information about Twenty Sixteen please go to https://codex.wordpress.o
 Twenty Sixteen WordPress Theme, Copyright 2014-2015 WordPress.org
 Twenty Sixteen is distributed under the terms of the GNU GPL
 
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
